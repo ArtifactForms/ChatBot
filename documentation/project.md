@@ -122,5 +122,5 @@ During my initial research on chatbots, I encountered terminology similar to tha
 * [8] https://cloud.google.com/discover/human-in-the-loop 11-25-2024
 * [9] https://medium.com/vsinghbisen/what-is-human-in-the-loop-machine-learning-why-how-used-in-ai-60c7b44eb2c0 11-25-2024
 
-banner image created with deep ai https://deepai.org
+banner image created with deep ai https://deepai.org 10-25-2024
 
