@@ -22,6 +22,16 @@ Conversational systems, also known as chatbots, are increasingly used in various
 
 In 1950, Alan Turing proposed the **Imitation Game**, a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. Turing predicted that by the year 2000, a computer would be able to fool a human interrogator 70% of the time. While significant progress has been made in the field of AI, particularly in chatbot development, this specific threshold has not yet been consistently achieved [13][14].
 
+**ELIZA**
+
+ELIZA, developed by Joseph Weizenbaum in the 1960s, was a groundbreaking computer program that simulated a Rogerian psychotherapist. It was one of the earliest examples of a chatbot, a computer program designed to simulate conversation with a human user.
+
+**How ELIZA worked:**
+
+1. **Pattern Matching:** ELIZA used a simple pattern-matching technique to analyze the user's input.
+2. **Keyword Identification:** It identified keywords in the user's input and selected a response based on predefined patterns.
+3. **Response Generation:** ELIZA would then generate a response by substituting keywords in a template response.
+
 ## Terminology
 
 When delving into the world of chatbots, we encounter a vast array of technical terms [3]. While it's not necessary to know every single term to grasp the fundamental concept of a chatbot [3], understanding key terms can significantly enhance your knowledge of conversational systems and artificial intelligence. As a non-technical user, a basic understanding is often sufficient. However, for my chatbot project, I aim to build a comprehensive vocabulary to achieve my learning goals.
