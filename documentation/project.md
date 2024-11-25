@@ -136,9 +136,18 @@ When a chatbot is trained on a dataset like the one provided, it typically invol
 2. **Database Lookup:** This hash value is used to search a database of predefined responses.
 3. **Direct Response:** If an exact match is found, the corresponding response is returned.
 
-This approach provides a solid foundation for building a simple chatbot. However, before you start storing a multitude of hashes in a database, consider enriching the simple utterance-intent pairs with metadata.
+**Metadata**
 
-For instance, you could capture the **formality** of the query (**formal** or **informal**). Additionally, combined intents should be considered. In the query "Hello, how are you? I need help finding a product," for example, there are multiple intents. Here, the question arises as to which intent is more relevant to the user – probably the product search. A match counter could also be useful to track the frequency of certain queries.
+The direct match approach provides a solid foundation for building a simple chatbot. However, before you start storing a multitude of hashes in a database, consider enriching the simple utterance-intent pairs with metadata. For instance, you could capture the **formality** of the query (**formal** or **informal**). Additionally, combined intents should be considered. In the query "Hello, how are you? I need help finding a product," for example, there are multiple intents. Here, the question arises as to which intent is more relevant to the user – probably the product search. A match counter could also be useful to track the frequency of certain queries.
+
+**Why Metadata Matters**
+
+By adding metadata to your training data, you can provide your chatbot with more context and nuance. This can help it to:
+
+* **Handle Complex Queries:** Understand and respond to more complex user queries.
+* **Identify Intent Prioritization:** Determine the primary intent when multiple intents are present in a single query.
+* **Track User Behavior:** Analyze user interactions and identify trends.
+* **Personalize Responses:** Tailor responses based on user preferences or past interactions.
    
 **Note:** While exact matching is a straightforward approach, it has limitations. It can struggle with variations in phrasing and may not handle complex queries effectively. More advanced chatbots often combine exact matching with techniques like natural language processing and machine learning to improve their capabilities.
 
