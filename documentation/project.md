@@ -10,6 +10,8 @@ Conversational systems, also known as chatbots, are increasingly used in various
 
 ## The History of Chatbots
 
+![](ELIZA_conversation.png)
+
 **Key figures and their contributions:**
 
 * **Alan Turing:** His work on artificial intelligence and the Turing Test laid the foundation for the concept of intelligent machines that could converse.
