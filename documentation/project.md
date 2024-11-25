@@ -4,7 +4,13 @@
 
 Conversational systems, also known as chatbots, are increasingly used in various domains like e-commerce and customer service to enable direct communication between businesses and users. These systems offer a natural language interface, making them accessible to non-technical users. While chatbot platforms are becoming more prevalent, building them remains a technically demanding task [1]. 
 
-## Terms
+## Terminology
+
+When delving into the world of chatbots, we encounter a vast array of technical terms. While it's not necessary to know every single term to grasp the fundamental concept of a chatbot, understanding key terms can significantly enhance your knowledge of conversational systems and artificial intelligence [3]. As a non-technical user, a basic understanding is often sufficient. However, for my chatbot project, I aim to build a comprehensive vocabulary to achieve my learning goals.
+
+In this document, I will compile a glossary of terms relevant to this topic that I come across during my research.
+
+**Terms**
 * **Chatbot:** A computer program designed to simulate conversation with a human user.
 * **Conversational System:** A system that enables natural language interaction between humans and computers.
 * **Chatbot training:** The process of teaching a chatbot to understand and respond to user input.
