@@ -6,7 +6,7 @@ Conversational systems, also known as chatbots, are increasingly used in various
 
 ## Terminology
 
-When delving into the world of chatbots, we encounter a vast array of technical terms. While it's not necessary to know every single term to grasp the fundamental concept of a chatbot, understanding key terms can significantly enhance your knowledge of conversational systems and artificial intelligence [3]. As a non-technical user, a basic understanding is often sufficient. However, for my chatbot project, I aim to build a comprehensive vocabulary to achieve my learning goals.
+When delving into the world of chatbots, we encounter a vast array of technical terms [3]. While it's not necessary to know every single term to grasp the fundamental concept of a chatbot [3], understanding key terms can significantly enhance your knowledge of conversational systems and artificial intelligence. As a non-technical user, a basic understanding is often sufficient. However, for my chatbot project, I aim to build a comprehensive vocabulary to achieve my learning goals.
 
 In this document, I will compile a glossary of terms relevant to this topic that I come across during my research.
 
