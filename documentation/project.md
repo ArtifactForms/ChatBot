@@ -115,6 +115,20 @@ While models like GPT-3.5 and GPT-4 can generate highly sophisticated text, simp
 
 During my initial research on chatbots, I encountered terminology similar to that used in behavior trees. Actions and conditions are fundamental components of a behavior tree. My first encounter with behavior trees was over 15 years ago, when they were not as widely used as they are today. Behavior trees are now a staple of major game engines and a well-established concept. I am curious about how I can apply this AI concept to a chatbot to assist it in performing actions. Specifically, I want to evaluate whether a combination of behavior trees and intent-based chatbots is feasible and what possibilities it offers.
 
+## Training
+
+This is a simple example of training data for a basic chatbot. The data consists of pairs of user utterances and their corresponding intents. By training a machine learning model on this data, the chatbot can learn to recognize user intents and provide appropriate responses.
+
+| Text | Intent |
+|---|---|
+| Hi, how are you? | Greeting |
+| Hello, what can I do for you? | Greeting |
+| I need help | Help |
+| I have a problem | Help |
+| Can you help me with this? | Help |
+| What is the weather today? | Weather |
+| Tell me the weather forecast | Weather |
+
 # References
 * [1] https://link.springer.com/chapter/10.1007/978-3-030-49418-6_17 11-25-2024
 * [2] https://www.moin.ai/chatbot-lexikon/chatbot-trainieren-trainingsdaten-ki (German) 11-25-2024
