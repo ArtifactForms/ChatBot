@@ -142,7 +142,7 @@ When a chatbot is trained on a dataset like the one provided, it typically invol
 
 1. **Hash Function:** Every user query is converted into a unique hash value.
 2. **Database Lookup:** This hash value is used to search a database of predefined responses.
-3. **Direct Response:** If an exact match is found, the corresponding response is returned
+3. **Direct Response:** If an exact match is found, the corresponding response is returned.
    
 **Note:** While exact matching is a straightforward approach, it has limitations. It can struggle with variations in phrasing and may not handle complex queries effectively. More advanced chatbots often combine exact matching with techniques like natural language processing and machine learning to improve their capabilities.
 
