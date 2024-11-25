@@ -8,6 +8,12 @@ Simon Dietz
 
 Conversational systems, also known as chatbots, are increasingly used in various domains like e-commerce and customer service to enable direct communication between businesses and users [1][10]. These systems offer a natural language interface, making them accessible to non-technical users. While chatbot platforms are becoming more prevalent, building them remains a technically demanding task [1]. 
 
+## The History of Chatbots
+
+**The Turing Test**
+
+The Turing test, originally called the **Imitation Game**, is a measure of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human [13].
+
 ## Terminology
 
 When delving into the world of chatbots, we encounter a vast array of technical terms [3]. While it's not necessary to know every single term to grasp the fundamental concept of a chatbot [3], understanding key terms can significantly enhance your knowledge of conversational systems and artificial intelligence. As a non-technical user, a basic understanding is often sufficient. However, for my chatbot project, I aim to build a comprehensive vocabulary to achieve my learning goals.
