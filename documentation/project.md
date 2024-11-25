@@ -34,6 +34,7 @@ In this document, I will compile a glossary of terms relevant to this topic that
 * **User Query:** A specific question or request made by a user to a chatbot.
 * **Artificial Intelligence (AI):**
 * **Model:** A mathematical representation of a real-world system or process. In the context of chatbots, models are used to process user input and generate responses.
+* **Human-in-the-loop (HITL)** Human in the Loop (HITL) is a collaborative approach in machine learning that integrates human expertise into the development and operation of AI systems. Humans actively participate in training, evaluating, and using these systems, providing valuable feedback and guidance [8][9].
 
 ## Chatbots: A Complex Interplay of Models
 
@@ -111,13 +112,15 @@ While models like GPT-3.5 and GPT-4 can generate highly sophisticated text, simp
 During my initial research on chatbots, I encountered terminology similar to that used in behavior trees. Actions and conditions are fundamental components of a behavior tree. My first encounter with behavior trees was over 15 years ago, when they were not as widely used as they are today. Behavior trees are now a staple of major game engines and a well-established concept. I am curious about how I can apply this AI concept to a chatbot to assist it in performing actions. Specifically, I want to evaluate whether a combination of behavior trees and intent-based chatbots is feasible and what possibilities it offers.
 
 # References
-* [1] https://link.springer.com/chapter/10.1007/978-3-030-49418-6_17
-* [2] https://www.moin.ai/chatbot-lexikon/chatbot-trainieren-trainingsdaten-ki (German)
-* [3] https://www.tidio.com/blog/training-a-chatbot/
-* [4] https://capacity.com/learn/ai-chatbots/how-to-train-a-chatbot/
-* [5] https://www.quincus.com/blog/the-power-of-automation-in-logistics/
-* [6] https://blog.finxter.com/openai-glossary/
-* [7] https://www.ibm.com/think/topics/chatbot-types
+* [1] https://link.springer.com/chapter/10.1007/978-3-030-49418-6_17 11-25-2024
+* [2] https://www.moin.ai/chatbot-lexikon/chatbot-trainieren-trainingsdaten-ki (German) 11-25-2024
+* [3] https://www.tidio.com/blog/training-a-chatbot/ 11-25-2024
+* [4] https://capacity.com/learn/ai-chatbots/how-to-train-a-chatbot/ 11-25-2024
+* [5] https://www.quincus.com/blog/the-power-of-automation-in-logistics/ 11-25-2024
+* [6] https://blog.finxter.com/openai-glossary/ 11-25-2024
+* [7] https://www.ibm.com/think/topics/chatbot-types 11-25-2024
+* [8] https://cloud.google.com/discover/human-in-the-loop 11-25-2024
+* [9] https://medium.com/vsinghbisen/what-is-human-in-the-loop-machine-learning-why-how-used-in-ai-60c7b44eb2c0 11-25-2024
 
 banner image created with deep ai https://deepai.org
 
