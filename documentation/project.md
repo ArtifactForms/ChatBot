@@ -106,12 +106,6 @@ While models like GPT-3.5 and GPT-4 can generate highly sophisticated text, simp
 * Training Data: The quality and quantity of training data significantly impact chatbot performance.
 * Human Involvement: Even advanced models often require human intervention, such as creating training data or crafting responses.
 
-**Additional Considerations for this document:**
-
-* **Chatbot Applications:** Customer support, e-commerce, education, etc.
-* **Challenges:** Handling ambiguous language, unexpected inputs, and ensuring privacy.
-* **Future Trends:** Integration of multimodal data (text, image, audio) and improved contextual understanding.
-
 ## Training a Simple Chatbot
 
 **Training Data**
@@ -162,6 +156,13 @@ Behavior trees are a powerful technique for structuring AI agents, including cha
 * **Hierarchical Structure:** This structure allows for a clear representation of the chatbot's decision-making process, from high-level goals to specific actions.
 * **Flexibility:** Behavior trees can be easily adapted to new situations and requirements by modifying or adding new nodes.
 * **Parallelism:** Behavior trees can handle multiple tasks simultaneously, enabling the chatbot to perform multiple actions in parallel.
+
+
+## Additional Considerations for this document:
+
+* **Chatbot Applications:** Customer support, e-commerce, education, etc.
+* **Challenges:** Handling ambiguous language, unexpected inputs, and ensuring privacy.
+* **Future Trends:** Integration of multimodal data (text, image, audio) and improved contextual understanding.
 
 # References
 * [1] https://link.springer.com/chapter/10.1007/978-3-030-49418-6_17 11-25-2024
