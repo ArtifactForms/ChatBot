@@ -119,3 +119,5 @@ During my initial research on chatbots, I encountered terminology similar to tha
 * [6] https://blog.finxter.com/openai-glossary/
 * [7] https://www.ibm.com/think/topics/chatbot-types
 
+banner image created with deep ai https://deepai.org
+
