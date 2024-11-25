@@ -42,7 +42,7 @@ While chatbots can be complex, we can break down the core concept into a simplif
 
 A typical chatbot involves:
 
-* **User:** The user sends a text message to the chatbot.
+* **User:** The user sends a message to the chatbot.
 * **Intent Recognition:** The chatbot's intent recognition system analyzes the message to determine the user's intent (e.g., greeting, asking a question, making a request).
 * **Response Generation:** Based on the recognized intent, the response generation system selects or generates an appropriate response.
 * **User:** The chatbot sends the generated response back to the user.
