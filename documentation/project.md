@@ -16,6 +16,8 @@ Conversational systems, also known as chatbots, are increasingly used in various
 * **Action:** A specific task or operation that a chatbot can perform, such as providing information, making a recommendation, or completing a transaction.
 * **Condition:** A specific circumstance or requirement that must be met before a certain action can be taken.
 * **Intent Listener:** A component of a chatbot that listens for specific intents in user input.
+* **Natural Language (NL):**
+* **Natural Language Interface:**
 * **Natural Language Processing (NLP):** A field of computer science and artificial intelligence concerned with the interaction between computers and human (natural) languages.
 * **Intent Recognition:**
 * **Machine Learning:**
