@@ -129,6 +129,10 @@ This is a simple example of training data for a basic chatbot. The data consists
 | What is the weather today? | Weather |
 | Tell me the weather forecast | Weather |
 
+**How a Chatbot Processes Training Data**
+
+When a chatbot is trained on a dataset like the one provided, it typically involves a machine learning process.
+
 # References
 * [1] https://link.springer.com/chapter/10.1007/978-3-030-49418-6_17 11-25-2024
 * [2] https://www.moin.ai/chatbot-lexikon/chatbot-trainieren-trainingsdaten-ki (German) 11-25-2024
