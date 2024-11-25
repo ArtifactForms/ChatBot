@@ -172,7 +172,7 @@ By adding metadata to your training data, you can provide your chatbot with more
 Data Quality: The quality of the training data is crucial. It should be clean, accurate, and relevant to the task.
 Data Augmentation: Techniques like backtranslation, synonym replacement, and text augmentation can be used to artificially increase the size and diversity of the dataset.
 
-// TODO
+// TODO Explain how data is collected, cleaned, and formatted for chatbot training.
 
 ## Entities
 
