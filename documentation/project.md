@@ -36,7 +36,7 @@ In this document, I will compile a glossary of terms relevant to this topic that
 * **Reinforcement Learning: (RL)** A type of machine learning where an agent learns to make decisions by interacting with an environment [6] and receiving rewards or penalties [5].
 * **Reinforcement Learning from Human Feedback (RLHF):**
 * **User Query:** A specific question or request made by a user to a chatbot.
-* **Artificial Intelligence (AI):**
+* **Artificial Intelligence (AI):** Artificial intelligence (AI) is a branch of computer science that aims to create intelligent agents, systems that can reason, learn, and act autonomously. AI systems are designed to mimic human cognitive functions, such as perception, reasoning, learning, and problem-solving [11].
 * **Model:** A mathematical representation of a real-world system or process. In the context of chatbots, models are used to process user input and generate responses.
 * **Human-in-the-loop (HITL)** Human in the Loop (HITL) is a collaborative approach in machine learning that integrates human expertise into the development and operation of AI systems. Humans actively participate in training, evaluating, and using these systems, providing valuable feedback and guidance [8][9].
 
@@ -126,6 +126,7 @@ During my initial research on chatbots, I encountered terminology similar to tha
 * [8] https://cloud.google.com/discover/human-in-the-loop 11-25-2024
 * [9] https://medium.com/vsinghbisen/what-is-human-in-the-loop-machine-learning-why-how-used-in-ai-60c7b44eb2c0 11-25-2024
 * [10] https://masterofcode.com/blog/chatbot-statistics 11-25-2024
+* [11] https://www.ibm.com/topics/artificial-intelligence
 
 banner image created with deep ai https://deepai.org 10-25-2024
 
