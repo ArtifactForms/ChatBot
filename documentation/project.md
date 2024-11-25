@@ -23,10 +23,10 @@ Conversational systems, also known as chatbots, are increasingly used in various
 * **Natural Language Processing (NLP):** A field of computer science and artificial intelligence concerned with the interaction between computers and human (natural) languages.
 * **Dialog Management:** The process of managing the flow of a conversation, including tracking the conversation's state, identifying user intents, and selecting appropriate responses.
 * **Machine Learning:** A field of artificial intelligence that gives computers the ability to learn without being explicitly programmed.
-* **Reinforcement Learning:**
+* **Reinforcement Learning: (RL)** A type of machine learning where an agent learns to make decisions by interacting with an environment [6] and receiving rewards or penalties [5].
 * **User Query:** A specific question or request made by a user to a chatbot.
 * **Artificial Intelligence (AI):**
-* **Model:**
+* **Model:** A mathematical representation of a real-world system or process. In the context of chatbots, models are used to process user input and generate responses.
 
 ## Chatbots: A Complex Interplay of Models
 
@@ -88,9 +88,11 @@ While models like GPT-3.5 and GPT-4 can generate highly sophisticated text, simp
 * **Challenges:** Handling ambiguous language, unexpected inputs, and ensuring privacy.
 * **Future Trends:** Integration of multimodal data (text, image, audio) and improved contextual understanding.
 
-# Resources
+# References
 * [1] https://link.springer.com/chapter/10.1007/978-3-030-49418-6_17
 * [2] https://www.moin.ai/chatbot-lexikon/chatbot-trainieren-trainingsdaten-ki (German)
 * [3] https://www.tidio.com/blog/training-a-chatbot/
 * [4] https://capacity.com/learn/ai-chatbots/how-to-train-a-chatbot/
+* [5] https://www.quincus.com/blog/the-power-of-automation-in-logistics/
+* [6] https://blog.finxter.com/openai-glossary/
 
