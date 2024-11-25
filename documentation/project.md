@@ -19,6 +19,7 @@
 * **Machine Learning:**
 * **Reinforcement Learning:**
 * **User Query:**
+* **Model:**
 
 ## Chatbots: A Complex Interplay of Models
 
