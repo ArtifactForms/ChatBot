@@ -18,7 +18,7 @@ Conversational systems, also known as chatbots, are increasingly used in various
 
 **The Turing Test**
 
-In 1950, Alan Turing proposed the **Imitation Game**, a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. Turing predicted that by the year 2000, a computer would be able to fool a human interrogator 70% of the time. While significant progress has been made in the field of AI, particularly in chatbot development, this specific threshold has not yet been consistently achieved [13][14]. 
+In 1950, Alan Turing proposed the **Imitation Game**, a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. Turing predicted that by the year 2000, a computer would be able to fool a human interrogator 70% of the time. While significant progress has been made in the field of AI, particularly in chatbot development, this specific threshold has not yet been consistently achieved [13][14].
 
 ## Terminology
 
@@ -223,6 +223,7 @@ Behavior trees are a powerful technique for structuring AI agents, including cha
 * [11] https://www.ibm.com/topics/artificial-intelligence 11-25-2024
 * [12] https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained#:~:text=Machine%20learning%20is%20behind%20chatbots,your%20social%20media%20feeds%20are 11-25-2024
 * [13] https://www.codecademy.com/article/history-of-chatbots 11-25-2024
-* [14] https://intelligent-information.blog/en/will-ai-make-our-information-intelligent/ 11-25-2024 
+* [14] https://intelligent-information.blog/en/will-ai-make-our-information-intelligent/ 11-25-2024
+* [15] https://en.wikipedia.org/wiki/ELIZA
 
 banner image created with deep ai https://deepai.org 10-25-2024
