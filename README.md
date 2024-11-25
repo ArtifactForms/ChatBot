@@ -17,6 +17,8 @@ This project aims to create a chatbot capable of [briefly describe the chatbot's
 **Functional Goals:**
 * [Clearly define what the chatbot should be able to do]
 
+**Personal Goals:**
+
 ## Motivation
 
 Motivation: I am fascinated by the intersection of artificial intelligence and human language. By building this chatbot, I aim to gain a deeper understanding of natural language processing techniques and explore the potential applications of chatbots in [specific industry or domain]. Additionally, this project will provide me with valuable experience in [list of relevant skills, e.g., Python programming, machine learning, and software engineering].
