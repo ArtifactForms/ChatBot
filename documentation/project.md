@@ -157,7 +157,6 @@ Behavior trees are a powerful technique for structuring AI agents, including cha
 * **Flexibility:** Behavior trees can be easily adapted to new situations and requirements by modifying or adding new nodes.
 * **Parallelism:** Behavior trees can handle multiple tasks simultaneously, enabling the chatbot to perform multiple actions in parallel.
 
-
 ## Additional Considerations for this document:
 
 * **Chatbot Applications:** Customer support, e-commerce, education, etc.
