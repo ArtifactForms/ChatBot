@@ -142,6 +142,10 @@ For instance, you could capture the **formality** of the query (**formal** or **
    
 **Note:** While exact matching is a straightforward approach, it has limitations. It can struggle with variations in phrasing and may not handle complex queries effectively. More advanced chatbots often combine exact matching with techniques like natural language processing and machine learning to improve their capabilities.
 
+## Entities
+
+Entities are essentially labeled categories or types of information that are relevant within a user's query. These can be concrete things like product names, locations, dates, or numbers, or more abstract concepts like colors or emotions.
+
 ## Behavior Trees and Chatbots
 
 During my initial research on chatbots, I encountered terminology similar to that used in behavior trees. Actions and conditions are fundamental components of a behavior tree. My first encounter with behavior trees was over 15 years ago, when they were not as widely used as they are today. Behavior trees are now a staple of major game engines and a well-established concept. I am curious about how I can apply this AI concept to a chatbot to assist it in performing actions. Specifically, I want to evaluate whether a combination of behavior trees and intent-based chatbots is feasible and what possibilities it offers.
