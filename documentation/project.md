@@ -52,7 +52,7 @@ While models like GPT-3.5 and GPT-4 can generate highly sophisticated text, simp
 * **Future Trends:** Integration of multimodal data (text, image, audio) and improved contextual understanding.
 
 # Resources
-
+* https://link.springer.com/chapter/10.1007/978-3-030-49418-6_17
 * https://www.moin.ai/chatbot-lexikon/chatbot-trainieren-trainingsdaten-ki (German)
 * https://www.tidio.com/blog/training-a-chatbot/
 * https://capacity.com/learn/ai-chatbots/how-to-train-a-chatbot/
