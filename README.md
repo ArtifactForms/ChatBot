@@ -1,6 +1,9 @@
 # Chatbot Project
 A simple chat bot.
 
+If you are interested in learning more about chatbots and following the progress of my project, including my learning journey, please feel free to consult my project documentation. It will be updated regularly throughout the project.
+[Chatbot Project](documentation/project.md)
+
 ![](documentation/chatbot-banner-1920x1080.png)
 
 ## Introduction
