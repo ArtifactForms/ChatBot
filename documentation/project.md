@@ -39,6 +39,7 @@ In this document, I will compile a glossary of terms relevant to this topic that
 * **Artificial Intelligence (AI):** Artificial intelligence (AI) is a branch of computer science that aims to create intelligent agents, systems that can reason, learn, and act autonomously. AI systems are designed to mimic human cognitive functions, such as perception, reasoning, learning, and problem-solving [11].
 * **Model:** A mathematical representation of a real-world system or process. In the context of chatbots, models are used to process user input and generate responses.
 * **Human-in-the-loop (HITL)** Human in the Loop (HITL) is a collaborative approach in machine learning that integrates human expertise into the development and operation of AI systems. Humans actively participate in training, evaluating, and using these systems, providing valuable feedback and guidance [8][9].
+*  **Exact Mathching (Direct Matching)**
 
 ## Chatbots: A Complex Interplay of Models
 
@@ -115,9 +116,13 @@ While models like GPT-3.5 and GPT-4 can generate highly sophisticated text, simp
 
 During my initial research on chatbots, I encountered terminology similar to that used in behavior trees. Actions and conditions are fundamental components of a behavior tree. My first encounter with behavior trees was over 15 years ago, when they were not as widely used as they are today. Behavior trees are now a staple of major game engines and a well-established concept. I am curious about how I can apply this AI concept to a chatbot to assist it in performing actions. Specifically, I want to evaluate whether a combination of behavior trees and intent-based chatbots is feasible and what possibilities it offers.
 
-## Training
+## Training a Simple Chatbot
 
-This is a simple example of training data for a basic chatbot. The data consists of pairs of user utterances and their corresponding intents. By training a machine learning model on this data, the chatbot can learn to recognize user intents and provide appropriate responses.
+**Training Data**
+
+A fundamental step in creating a chatbot is providing it with training data. This data consists of pairs of user utterances and their corresponding intents. By training a machine learning model on this data, the chatbot can learn to recognize user intents and provide appropriate responses.
+
+Here's a simple example of training data:
 
 | Text | Intent |
 |---|---|
@@ -129,9 +134,28 @@ This is a simple example of training data for a basic chatbot. The data consists
 | What is the weather today? | Weather |
 | Tell me the weather forecast | Weather |
 
+**Training Process**
+
+While complex chatbots often leverage advanced machine learning techniques, simpler chatbots can rely on more basic approaches. One common method is **exact matching**. In this approach, the chatbot directly matches user input to predefined responses.
+
+**How Exact Matching Works**
+
+* Hashing: Each user query is converted into a unique hash value.
+* Database Lookup: This hash value is used to search a database of predefined responses.
+* Direct Response: If an exact match is found, the corresponding response is returned.
+
 **How a Chatbot Processes Training Data**
 
-When a chatbot is trained on a dataset like the one provided, it typically involves a machine learning process [12].
+When a chatbot is trained on a dataset like the one provided, it typically involves a machine learning process [12]. However for simple chatbot like Rule-Based ones there are several simple approches.
+Predefined responses linked to an exact user utterance or it's variations is a common approach, especially for simpler chatbots that rely on a large set of predefined responses. This concept is often referred to as **exact match** or **direct match**. This method needs a large and well prepared data set on the one hand. On the other hand this is a quick way to get a bot up and running without knowing and implementing complex algorithmns and infrastructure.
+
+**How does it work?**
+
+1. **Hash Function:** Every user query is converted into a unique hash value.
+2. **Database Lookup:** This hash value is used to search a database of predefined responses.
+3. **Direct Response:** If an exact match is found, the corresponding response is returned
+   
+**Note:** While exact matching is a straightforward approach, it has limitations. It can struggle with variations in phrasing and may not handle complex queries effectively. More advanced chatbots often combine exact matching with techniques like natural language processing and machine learning to improve their capabilities.
 
 # References
 * [1] https://link.springer.com/chapter/10.1007/978-3-030-49418-6_17 11-25-2024
