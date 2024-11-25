@@ -236,7 +236,8 @@ Behavior trees are a powerful technique for structuring AI agents, including cha
 * [12] https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained#:~:text=Machine%20learning%20is%20behind%20chatbots,your%20social%20media%20feeds%20are 11-25-2024
 * [13] https://www.codecademy.com/article/history-of-chatbots 11-25-2024
 * [14] https://intelligent-information.blog/en/will-ai-make-our-information-intelligent/ 11-25-2024
-* [15] https://en.wikipedia.org/wiki/ELIZA
+* [15] https://en.wikipedia.org/wiki/ELIZA 11-25-2024
+* https://www.it-finanzmagazin.de/turing-test-fuer-chatbots-109700/ 11-25-2024
 
 banner image created with deep ai https://deepai.org 10-25-2024
 eliza image https://upload.wikimedia.org/wikipedia/commons/7/79/ELIZA_conversation.png 10-25-2024
