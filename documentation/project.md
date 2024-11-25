@@ -145,7 +145,7 @@ When a chatbot is trained on a dataset like the one provided, it typically invol
 * [9] https://medium.com/vsinghbisen/what-is-human-in-the-loop-machine-learning-why-how-used-in-ai-60c7b44eb2c0 11-25-2024
 * [10] https://masterofcode.com/blog/chatbot-statistics 11-25-2024
 * [11] https://www.ibm.com/topics/artificial-intelligence 11-25-2024
-* [12] https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained#:~:text=Machine%20learning%20is%20behind%20chatbots,your%20social%20media%20feeds%20are
+* [12] https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained#:~:text=Machine%20learning%20is%20behind%20chatbots,your%20social%20media%20feeds%20are 11-25-2024
 
 banner image created with deep ai https://deepai.org 10-25-2024
 
