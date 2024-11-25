@@ -11,7 +11,7 @@ Conversational systems, also known as chatbots, are increasingly used in various
 * **Training Data:**
 * **Utterance:** A specific statement or phrase uttered by a user.
 * **Intent:** The user's goal or purpose behind a specific utterance.
-* * **Intent Recognition:**
+* **Intent Recognition:**
 * **Entity:** A specific piece of information within a user's utterance, such as a name, location, or date.
 * **Trigger:** A specific word or phrase that can initiate a chatbot's response.
 * **Action:** A specific task or operation that a chatbot can perform, such as providing information, making a recommendation, or completing a transaction.
