@@ -73,7 +73,6 @@ classDiagram
 * **Dialog Management:** To manage the flow of the conversation and track the context.
 * **Machine Learning:** To train models for intent recognition, entity extraction, and response generation.
 
-
 ## Chatbot Classification
 
 Chatbots can be classified based on their complexity, capabilities, and underlying technology [7]. Here are some common classifications: 
