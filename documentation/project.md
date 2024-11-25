@@ -1,5 +1,7 @@
 # Chatbot
 
+![](documentation/chatbot-banner-1920x1080.png)
+
 ## Terms
 * **Chatbot:** A computer program designed to simulate conversation with a human user.
 * **Chatbot training:** The process of teaching a chatbot to understand and respond to user input.
