@@ -6,36 +6,7 @@ Updated November 25, 2024
 
 Simon Dietz
 
-Conversational systems, also known as chatbots, are increasingly used in various domains like e-commerce and customer service to enable direct communication between businesses and users [1][10]. These systems offer a natural language interface, making them accessible to non-technical users. While chatbot platforms are becoming more prevalent, building them remains a technically demanding task [1]. 
-
-## The History of Chatbots
-
-![](ELIZA_conversation.png)
-
-**Key figures and their contributions:**
-
-* **Alan Turing:** His work on artificial intelligence and the Turing Test laid the foundation for the concept of intelligent machines that could converse.
-* **Joseph Weizenbaum:** He created ELIZA, one of the earliest chatbots, and raised important ethical questions about AI.
-* **Kenneth Colby:**
-* **Yann LeCun:** A pioneer in deep learning, his work has been instrumental in the development of advanced language models used in modern chatbots.
-
-**The Turing Test**
-
-In 1950, Alan Turing proposed the **Imitation Game**, a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. Turing predicted that by the year 2000, a computer would be able to fool a human interrogator 70% of the time. While significant progress has been made in the field of AI, particularly in chatbot development, this specific threshold has not yet been consistently achieved [13][14].
-
-**ELIZA**
-
-ELIZA, developed by Joseph Weizenbaum in the 1960s, was a groundbreaking computer program that simulated a Rogerian psychotherapist. It was one of the earliest examples of a chatbot, a computer program designed to simulate conversation with a human user.
-
-**How ELIZA worked:**
-
-1. **Pattern Matching:** ELIZA used a simple pattern-matching technique to analyze the user's input.
-2. **Keyword Identification:** It identified keywords in the user's input and selected a response based on predefined patterns.
-3. **Response Generation:** ELIZA would then generate a response by substituting keywords in a template response.
-
-**PARRY**
-
-Kenneth Colby developed PARRY at Stanford University in 1968. This rule-based chatbot, similar to ELIZA, was designed to simulate a person with paranoia. PARRY could adapt its responses based on mood parameters like anger, fear, and mistrust, and even passed a modified Turing Test by fooling human evaluators [13].
+Conversational systems, also known as chatbots, are increasingly used in various domains like e-commerce and customer service to enable direct communication between businesses and users [1][10]. These systems offer a natural language interface, making them accessible to non-technical users. While chatbot platforms are becoming more prevalent, building them remains a technically demanding task [1].
 
 ## Terminology
 
@@ -70,6 +41,35 @@ In this document, I will compile a glossary of terms relevant to this topic that
 * **Human-in-the-loop (HITL)** Human in the Loop (HITL) is a collaborative approach in machine learning that integrates human expertise into the development and operation of AI systems. Humans actively participate in training, evaluating, and using these systems, providing valuable feedback and guidance [8][9].
 * **Exact Mathching (Direct Matching)** A simple approach to chatbot design where user input is **exactly matched** to a predefined response. This method relies on a database of pre-defined questions and answers. While efficient for straightforward queries, it lacks the flexibility to handle complex or nuanced user inputs.
 * **Turing Test (Imitation Game):**
+
+## The History of Chatbots
+
+**Key figures and their contributions:**
+
+* **Alan Turing:** His work on artificial intelligence and the Turing Test laid the foundation for the concept of intelligent machines that could converse.
+* **Joseph Weizenbaum:** He created ELIZA, one of the earliest chatbots, and raised important ethical questions about AI.
+* **Kenneth Colby:**
+* **Yann LeCun:** A pioneer in deep learning, his work has been instrumental in the development of advanced language models used in modern chatbots.
+
+**The Turing Test**
+
+In 1950, Alan Turing proposed the **Imitation Game**, a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. Turing predicted that by the year 2000, a computer would be able to fool a human interrogator 70% of the time. While significant progress has been made in the field of AI, particularly in chatbot development, this specific threshold has not yet been consistently achieved [13][14].
+
+![](ELIZA_conversation.png)
+
+**ELIZA**
+
+ELIZA, developed by Joseph Weizenbaum in the 1960s, was a groundbreaking computer program that simulated a Rogerian psychotherapist. It was one of the earliest examples of a chatbot, a computer program designed to simulate conversation with a human user.
+
+**How ELIZA worked:**
+
+1. **Pattern Matching:** ELIZA used a simple pattern-matching technique to analyze the user's input.
+2. **Keyword Identification:** It identified keywords in the user's input and selected a response based on predefined patterns.
+3. **Response Generation:** ELIZA would then generate a response by substituting keywords in a template response.
+
+**PARRY**
+
+Kenneth Colby developed PARRY at Stanford University in 1968. This rule-based chatbot, similar to ELIZA, was designed to simulate a person with paranoia. PARRY could adapt its responses based on mood parameters like anger, fear, and mistrust, and even passed a modified Turing Test by fooling human evaluators [13].
 
 ## Chatbots: A Complex Interplay of Models
 
