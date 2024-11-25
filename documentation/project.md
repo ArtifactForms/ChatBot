@@ -10,6 +10,12 @@ Conversational systems, also known as chatbots, are increasingly used in various
 
 ## The History of Chatbots
 
+**Key figures and their contributions:**
+
+* **Alan Turing:** His work on artificial intelligence and the Turing Test laid the foundation for the concept of intelligent machines that could converse.
+* **Joseph Weizenbaum:** He created ELIZA, one of the earliest chatbots, and raised important ethical questions about AI.
+* **Yann LeCun:** A pioneer in deep learning, his work has been instrumental in the development of advanced language models used in modern chatbots.
+
 **The Turing Test**
 
 In 1950, Alan Turing proposed the **Imitation Game**, a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. Turing predicted that by the year 2000, a computer would be able to fool a human interrogator 70% of the time. While significant progress has been made in the field of AI, particularly in chatbot development, this specific threshold has not yet been consistently achieved [13][14]. 
