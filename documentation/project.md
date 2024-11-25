@@ -1,3 +1,6 @@
+Updated November 25, 2024
+Simon Dietz
+
 # Chatbot
 
 ![](chatbot-banner-1920x1080.png)
