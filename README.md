@@ -1,6 +1,8 @@
 # Chatbot Project
 A simple chat bot.
 
+![](documentation/chatbot-banner-1920x1080.png)
+
 ## Introduction
 
 This project aims to create a chatbot capable of [briefly describe the chatbot's main function, e.g., answering customer inquiries, providing product recommendations, or offering language learning assistance]. The chatbot will be developed using [programming language] and [framework].
