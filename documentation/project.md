@@ -12,9 +12,7 @@ Conversational systems, also known as chatbots, are increasingly used in various
 
 **The Turing Test**
 
-In 1950, Alan Turing proposed the Imitation Game, a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. Turing predicted that by the year 2000, a computer would be able to fool a human interrogator 70% of the time. While significant progress has been made in the field of AI, particularly in chatbot development, this specific threshold has not yet been consistently achieved [13][14]. 
-
-The Turing test, originally called the **Imitation Game**, is a measure of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human [13].
+In 1950, Alan Turing proposed the **Imitation Game**, a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. Turing predicted that by the year 2000, a computer would be able to fool a human interrogator 70% of the time. While significant progress has been made in the field of AI, particularly in chatbot development, this specific threshold has not yet been consistently achieved [13][14]. 
 
 ## Terminology
 
