@@ -161,6 +161,13 @@ By adding metadata to your training data, you can provide your chatbot with more
 * **Track User Behavior:** Analyze user interactions and identify trends.
 * **Personalize Responses:** Tailor responses based on user preferences or past interactions.
 
+**Training Data 2**
+
+Data Quality: The quality of the training data is crucial. It should be clean, accurate, and relevant to the task.
+Data Augmentation: Techniques like backtranslation, synonym replacement, and text augmentation can be used to artificially increase the size and diversity of the dataset.
+
+// TODO
+
 ## Entities
 
 Entities are essentially labeled categories or types of information that are relevant within a user's query. These can be concrete things like product names, locations, dates, or numbers, or more abstract concepts like colors or emotions.
