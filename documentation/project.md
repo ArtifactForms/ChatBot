@@ -229,3 +229,4 @@ Behavior trees are a powerful technique for structuring AI agents, including cha
 * [15] https://en.wikipedia.org/wiki/ELIZA
 
 banner image created with deep ai https://deepai.org 10-25-2024
+eliza image https://upload.wikimedia.org/wikipedia/commons/7/79/ELIZA_conversation.png 10-25-2024
