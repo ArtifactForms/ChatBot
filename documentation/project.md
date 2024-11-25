@@ -138,6 +138,12 @@ Here's a simple example of training data:
 
 When a chatbot is trained on a dataset like the one provided, it typically involves advanced machine learning techniques [12]. However, for simpler rule-based chatbots, a straightforward approach is to use predefined responses linked to specific user utterances or their variations. This method is particularly effective for chatbots with a large database of predefined responses. This concept is often referred to as **exact match** or **direct match**. Although this method demands a substantial, well-curated dataset, it provides a rapid solution for deploying a simple chatbot without the need for complex algorithms and infrastructure. In particular, FAQ agents can benefit greatly from this approach. If a company has a substantial dataset of real user queries and well-prepared support answers, building a rule-based chatbot becomes significantly easier.
 
+This approach provides a solid foundation for building a simple chatbot. However, before you start storing a multitude of hashes in a database, consider enriching the simple utterance-intent pairs with metadata.
+
+For instance, you could capture the **formality** of the query (**formal** or **informal**). Additionally, combined intents should be considered. In the query "Hello, how are you? I need help finding a product," for example, there are multiple intents. Here, the question arises as to which intent is more relevant to the user – probably the product search.
+
+A match counter could also be useful to track the frequency of certain queries.
+
 **How does it work?**
 
 1. **Hash Function:** Every user query is converted into a unique hash value.
