@@ -136,6 +136,8 @@ Here's a simple example of training data:
 
 **How a Chatbot Processes Training Data**
 
+**Direct Match**
+
 When a chatbot is trained on a dataset like the one provided, it typically involves advanced machine learning techniques [12]. However, for simpler rule-based chatbots, a straightforward approach is to use predefined responses linked to specific user utterances or their variations. This method is particularly effective for chatbots with a large database of predefined responses. This concept is often referred to as **exact match** or **direct match**. Although this method demands a substantial, well-curated dataset, it provides a rapid solution for deploying a simple chatbot without the need for complex algorithms and infrastructure. In particular, FAQ agents can benefit greatly from this approach. If a company has a substantial dataset of real user queries and well-prepared support answers, building a rule-based chatbot becomes significantly easier.
 
 **How does it work?**
