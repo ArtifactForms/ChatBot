@@ -31,6 +31,7 @@ Chatbots are far more sophisticated than simple question-answer systems. They of
 * Training data pairs user utterances with corresponding intents (e.g., "Hello there!" -> "Greeting"). The amount of training data needed depends on the model's complexity.
 
 **Response Generation:**
+
 Responses are often selected from a pre-defined set rather than generated entirely by the model.
 While models like GPT-3.5 and GPT-4 can generate highly sophisticated text, simpler rule-based or template-based approaches suffice for many applications.
 
