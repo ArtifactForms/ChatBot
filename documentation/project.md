@@ -2,6 +2,8 @@
 
 ![](chatbot-banner-1920x1080.png)
 
+Conversational systems, also known as chatbots, are increasingly used in various domains like e-commerce and customer service to enable direct communication between businesses and users. These systems offer a natural language interface, making them accessible to non-technical users. While chatbot platforms are becoming more prevalent, building them remains a technically demanding task. [1]
+
 ## Terms
 * **Chatbot:** A computer program designed to simulate conversation with a human user.
 * **Chatbot training:** The process of teaching a chatbot to understand and respond to user input.
@@ -52,8 +54,8 @@ While models like GPT-3.5 and GPT-4 can generate highly sophisticated text, simp
 * **Future Trends:** Integration of multimodal data (text, image, audio) and improved contextual understanding.
 
 # Resources
-* https://link.springer.com/chapter/10.1007/978-3-030-49418-6_17
-* https://www.moin.ai/chatbot-lexikon/chatbot-trainieren-trainingsdaten-ki (German)
-* https://www.tidio.com/blog/training-a-chatbot/
-* https://capacity.com/learn/ai-chatbots/how-to-train-a-chatbot/
+* [1] https://link.springer.com/chapter/10.1007/978-3-030-49418-6_17
+* [2] https://www.moin.ai/chatbot-lexikon/chatbot-trainieren-trainingsdaten-ki (German)
+* [3] https://www.tidio.com/blog/training-a-chatbot/
+* [4] https://capacity.com/learn/ai-chatbots/how-to-train-a-chatbot/
 
