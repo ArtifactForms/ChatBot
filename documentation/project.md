@@ -131,7 +131,7 @@ This is a simple example of training data for a basic chatbot. The data consists
 
 **How a Chatbot Processes Training Data**
 
-When a chatbot is trained on a dataset like the one provided, it typically involves a machine learning process.
+When a chatbot is trained on a dataset like the one provided, it typically involves a machine learning process [12].
 
 # References
 * [1] https://link.springer.com/chapter/10.1007/978-3-030-49418-6_17 11-25-2024
@@ -145,6 +145,7 @@ When a chatbot is trained on a dataset like the one provided, it typically invol
 * [9] https://medium.com/vsinghbisen/what-is-human-in-the-loop-machine-learning-why-how-used-in-ai-60c7b44eb2c0 11-25-2024
 * [10] https://masterofcode.com/blog/chatbot-statistics 11-25-2024
 * [11] https://www.ibm.com/topics/artificial-intelligence 11-25-2024
+* [12] https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained#:~:text=Machine%20learning%20is%20behind%20chatbots,your%20social%20media%20feeds%20are
 
 banner image created with deep ai https://deepai.org 10-25-2024
 
