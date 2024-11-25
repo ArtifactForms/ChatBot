@@ -38,6 +38,16 @@ In this document, I will compile a glossary of terms relevant to this topic that
 ## Chatbots: A Complex Interplay of Models
 
 Chatbots are far more sophisticated than simple question-answer systems. They often rely on a combination of models to create natural and helpful conversations.
+While chatbots can be complex, we can break down the core concept into a simplified representation to understand their basic functionality.
+
+A typical chatbot involves:
+
+* **User:** The user sends a text message to the chatbot.
+* **Intent Recognition:** The chatbot's intent recognition system analyzes the message to determine the user's intent (e.g., greeting, asking a question, making a request).
+* **Response Generation:** Based on the recognized intent, the response generation system selects or generates an appropriate response.
+* **User:** The chatbot sends the generated response back to the user.
+
+This simplified model highlights the fundamental components of a chatbot, providing a solid foundation for further exploration.
 
 ```
 classDiagram
@@ -56,12 +66,6 @@ classDiagram
     Intent Recognition "Recognizes intent" --> Response Generation
     Response Generation "Generates response" --> User
 ```
-**Explanation:**
-
-* **User:** The user sends a text message to the chatbot.
-* **Intent Recognition:** The chatbot's intent recognition system analyzes the message to determine the user's intent (e.g., greeting, asking a question, making a request).
-* **Response Generation:** Based on the recognized intent, the response generation system selects or generates an appropriate response.
-* **User:** The chatbot sends the generated response back to the user.
 
 **Note:** This is a simplified model. Real-world chatbots often involve more complex components and techniques, such as:
 
