@@ -16,6 +16,7 @@ Conversational systems, also known as chatbots, are increasingly used in various
 
 * **Alan Turing:** His work on artificial intelligence and the Turing Test laid the foundation for the concept of intelligent machines that could converse.
 * **Joseph Weizenbaum:** He created ELIZA, one of the earliest chatbots, and raised important ethical questions about AI.
+* **Kenneth Colby:**
 * **Yann LeCun:** A pioneer in deep learning, his work has been instrumental in the development of advanced language models used in modern chatbots.
 
 **The Turing Test**
@@ -31,6 +32,10 @@ ELIZA, developed by Joseph Weizenbaum in the 1960s, was a groundbreaking compute
 1. **Pattern Matching:** ELIZA used a simple pattern-matching technique to analyze the user's input.
 2. **Keyword Identification:** It identified keywords in the user's input and selected a response based on predefined patterns.
 3. **Response Generation:** ELIZA would then generate a response by substituting keywords in a template response.
+
+**PARRY**
+
+Kenneth Colby developed PARRY at Stanford University in 1968. This rule-based chatbot, similar to ELIZA, was designed to simulate a person with paranoia. PARRY could adapt its responses based on mood parameters like anger, fear, and mistrust, and even passed a modified Turing Test by fooling human evaluators [13].
 
 ## Terminology
 
