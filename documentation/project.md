@@ -11,6 +11,7 @@ Conversational systems, also known as chatbots, are increasingly used in various
 * **Training Data:**
 * **Utterance:** A specific statement or phrase uttered by a user.
 * **Intent:** The user's goal or purpose behind a specific utterance.
+* * **Intent Recognition:**
 * **Entity:** A specific piece of information within a user's utterance, such as a name, location, or date.
 * **Trigger:** A specific word or phrase that can initiate a chatbot's response.
 * **Action:** A specific task or operation that a chatbot can perform, such as providing information, making a recommendation, or completing a transaction.
@@ -19,7 +20,7 @@ Conversational systems, also known as chatbots, are increasingly used in various
 * **Natural Language (NL):**
 * **Natural Language Interface:**
 * **Natural Language Processing (NLP):** A field of computer science and artificial intelligence concerned with the interaction between computers and human (natural) languages.
-* **Intent Recognition:**
+* **Dialog Management:**
 * **Machine Learning:**
 * **Reinforcement Learning:**
 * **User Query:**
@@ -29,6 +30,36 @@ Conversational systems, also known as chatbots, are increasingly used in various
 ## Chatbots: A Complex Interplay of Models
 
 Chatbots are far more sophisticated than simple question-answer systems. They often rely on a combination of models to create natural and helpful conversations.
+
+```
+classDiagram
+    class User
+        - Sends message
+    class Intent Recognition
+        - Receives message
+        - Recognizes intent
+    class Response Generation
+        - Receives intent
+        - Generates response
+    class User << (User) >>
+    class Intent Recognition << (System) >>
+    class Response Generation << (System) >>
+    User "Sends message" --> Intent Recognition
+    Intent Recognition "Recognizes intent" --> Response Generation
+    Response Generation "Generates response" --> User
+```
+**Explanation:**
+
+* **User:** The user sends a text message to the chatbot.
+* **Intent Recognition:** The chatbot's intent recognition system analyzes the message to determine the user's intent (e.g., greeting, asking a question, making a request).
+* **Response Generation:** Based on the recognized intent, the response generation system selects or generates an appropriate response.
+* **User:** The chatbot sends the generated response back to the user.
+
+**Note:** This is a simplified model. Real-world chatbots often involve more complex components and techniques, such as:
+
+* **Natural Language Processing (NLP):** To understand the nuances of human language and extract relevant information.
+* **Dialog Management:** To manage the flow of the conversation and track the context.
+* **Machine Learning:** To train models for intent recognition, entity extraction, and response generation.
 
 ## Core Concepts and Functionalities:
 
