@@ -6,6 +6,7 @@ Conversational systems, also known as chatbots, are increasingly used in various
 
 ## Terms
 * **Chatbot:** A computer program designed to simulate conversation with a human user.
+* **Conversational System:** A system that enables natural language interaction between humans and computers.
 * **Chatbot training:** The process of teaching a chatbot to understand and respond to user input.
 * **Training:** The process of feeding a machine learning model with data to improve its performance.
 * **Training Data:** A dataset used to train a machine learning model, typically consisting of input data and corresponding output labels.
@@ -24,9 +25,8 @@ Conversational systems, also known as chatbots, are increasingly used in various
 * **Machine Learning:** A field of artificial intelligence that gives computers the ability to learn without being explicitly programmed.
 * **Reinforcement Learning:**
 * **User Query:** A specific question or request made by a user to a chatbot.
-* **Conversational System:** A system that enables natural language interaction between humans and computers.
 * **Artificial Intelligence (AI):**
-* * **Model:**
+* **Model:**
 
 ## Chatbots: A Complex Interplay of Models
 
