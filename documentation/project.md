@@ -136,6 +136,8 @@ When a chatbot is trained on a dataset like the one provided, it typically invol
 2. **Database Lookup:** This hash value is used to search a database of predefined responses.
 3. **Direct Response:** If an exact match is found, the corresponding response is returned.
 
+**Note:** While exact matching is a straightforward approach, it has limitations. It can struggle with variations in phrasing and may not handle complex queries effectively. More advanced chatbots often combine exact matching with techniques like natural language processing and machine learning to improve their capabilities.
+
 **Metadata**
 
 The direct match approach provides a solid foundation for building a simple chatbot. However, before you start storing a multitude of hashes in a database, consider enriching the simple utterance-intent pairs with metadata. For instance, you could capture the **formality** of the query (**formal** or **informal**). Additionally, combined intents should be considered. In the query "Hello, how are you? I need help finding a product," for example, there are multiple intents. Here, the question arises as to which intent is more relevant to the user – probably the product search. A match counter could also be useful to track the frequency of certain queries.
@@ -148,9 +150,17 @@ By adding metadata to your training data, you can provide your chatbot with more
 * **Identify Intent Prioritization:** Determine the primary intent when multiple intents are present in a single query.
 * **Track User Behavior:** Analyze user interactions and identify trends.
 * **Personalize Responses:** Tailor responses based on user preferences or past interactions.
-   
-**Note:** While exact matching is a straightforward approach, it has limitations. It can struggle with variations in phrasing and may not handle complex queries effectively. More advanced chatbots often combine exact matching with techniques like natural language processing and machine learning to improve their capabilities.
 
+| Text | Intent | Metadata |
+|---|---|---|
+| Hi, how are you? | Greeting | Formal, Friendly |
+| Hello, what can I do for you? | Greeting | Formal, Helpful |
+| I need help | Help | Urgent, Problem-Oriented |
+| I have a problem | Help | Urgent, Problem-Oriented |
+| Can you help me with this? | Help | Urgent, Problem-Oriented |
+| What is the weather today? | Weather | Informational, Simple |
+| Tell me the weather forecast | Weather | Informational, Simple |
+   
 ## Entities
 
 Entities are essentially labeled categories or types of information that are relevant within a user's query. These can be concrete things like product names, locations, dates, or numbers, or more abstract concepts like colors or emotions.
