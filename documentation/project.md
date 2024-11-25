@@ -41,6 +41,7 @@ In this document, I will compile a glossary of terms relevant to this topic that
 * **Human-in-the-loop (HITL)** Human in the Loop (HITL) is a collaborative approach in machine learning that integrates human expertise into the development and operation of AI systems. Humans actively participate in training, evaluating, and using these systems, providing valuable feedback and guidance [8][9].
 * **Exact Mathching (Direct Matching)** A simple approach to chatbot design where user input is **exactly matched** to a predefined response. This method relies on a database of pre-defined questions and answers. While efficient for straightforward queries, it lacks the flexibility to handle complex or nuanced user inputs.
 * **Turing Test (Imitation Game):**
+* **Context Window:**
 
 ## The History of Chatbots
 
