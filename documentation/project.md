@@ -17,5 +17,6 @@
 
 # Resources
 
+https://www.moin.ai/chatbot-lexikon/chatbot-trainieren-trainingsdaten-ki (German)
 https://www.tidio.com/blog/training-a-chatbot/
 
