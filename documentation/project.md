@@ -8,24 +8,25 @@ Conversational systems, also known as chatbots, are increasingly used in various
 * **Chatbot:** A computer program designed to simulate conversation with a human user.
 * **Chatbot training:** The process of teaching a chatbot to understand and respond to user input.
 * **Training:** The process of feeding a machine learning model with data to improve its performance.
-* **Training Data:**
+* **Training Data:** A dataset used to train a machine learning model, typically consisting of input data and corresponding output labels.
 * **Utterance:** A specific statement or phrase uttered by a user.
 * **Intent:** The user's goal or purpose behind a specific utterance.
-* **Intent Recognition:**
+* **Intent Recognition:** The process of identifying the user's goal or purpose from their input.
 * **Entity:** A specific piece of information within a user's utterance, such as a name, location, or date.
 * **Trigger:** A specific word or phrase that can initiate a chatbot's response.
 * **Action:** A specific task or operation that a chatbot can perform, such as providing information, making a recommendation, or completing a transaction.
 * **Condition:** A specific circumstance or requirement that must be met before a certain action can be taken.
 * **Intent Listener:** A component of a chatbot that listens for specific intents in user input.
-* **Natural Language (NL):**
-* **Natural Language Interface:**
+* **Natural Language (NL):**  Human language, such as English, Spanish, or Chinese.
+* **Natural Language Interface:** A user interface that allows users to interact with a computer system using natural language.
 * **Natural Language Processing (NLP):** A field of computer science and artificial intelligence concerned with the interaction between computers and human (natural) languages.
-* **Dialog Management:**
-* **Machine Learning:**
+* **Dialog Management:** The process of managing the flow of a conversation, including tracking the conversation's state, identifying user intents, and selecting appropriate responses.
+* **Machine Learning:** A field of artificial intelligence that gives computers the ability to learn without being explicitly programmed.
 * **Reinforcement Learning:**
-* **User Query:**
-* **Model:**
-* **Conversational System:**
+* **User Query:** A specific question or request made by a user to a chatbot.
+* **Conversational System:** A system that enables natural language interaction between humans and computers.
+* **Artificial Intelligence (AI):**
+* * **Model:**
 
 ## Chatbots: A Complex Interplay of Models
 
