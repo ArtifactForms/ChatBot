@@ -21,6 +21,7 @@ Motivation: I am fascinated by the intersection of artificial intelligence and h
 
 ## Project Structure
 
+* **documentation:** Contains the project documentation and relevant knowledge resources. 
 * **src/main/java:** Contains the source code for the chatbot.
 * **src/test/java:** Includes unit and integration tests.
 * **src/main/resources:**
