@@ -99,6 +99,10 @@ While models like GPT-3.5 and GPT-4 can generate highly sophisticated text, simp
 * **Challenges:** Handling ambiguous language, unexpected inputs, and ensuring privacy.
 * **Future Trends:** Integration of multimodal data (text, image, audio) and improved contextual understanding.
 
+## Behavior Trees and Chatbots
+
+During my initial research on chatbots, I encountered terminology similar to that used in behavior trees. Actions and conditions are fundamental components of a behavior tree. My first encounter with behavior trees was over 15 years ago, when they were not as widely used as they are today. Behavior trees are now a staple of major game engines and a well-established concept. I am curious about how I can apply this AI concept to a chatbot to assist it in performing actions. Specifically, I want to evaluate whether a combination of behavior trees and intent-based chatbots is feasible and what possibilities it offers.
+
 # References
 * [1] https://link.springer.com/chapter/10.1007/978-3-030-49418-6_17
 * [2] https://www.moin.ai/chatbot-lexikon/chatbot-trainieren-trainingsdaten-ki (German)
