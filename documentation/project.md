@@ -42,6 +42,7 @@ In this document, I will compile a glossary of terms relevant to this topic that
 * **Exact Mathching (Direct Matching)** A simple approach to chatbot design where user input is **exactly matched** to a predefined response. This method relies on a database of pre-defined questions and answers. While efficient for straightforward queries, it lacks the flexibility to handle complex or nuanced user inputs.
 * **Turing Test (Imitation Game):**
 * **Context Window:**
+* **Voice Recognition:**
 
 ## The History of Chatbots
 
