@@ -55,7 +55,7 @@ In this document, I will compile a glossary of terms relevant to this topic that
 
 **The Turing Test**
 
-In 1950, Alan Turing introduced the Imitation Game, later known as the Turing Test, as a method to assess a machine's ability to exhibit intelligent behavior indistinguishable from that of a human [13]. While Turing was optimistic about the future of AI, he did not provide a specific timeline or success rate for this achievement.
+In 1950, Alan Turing introduced the **Imitation Game**, later known as the **Turing Test**, as a method to assess a machine's ability to exhibit intelligent behavior indistinguishable from that of a human [13]. While Turing was optimistic about the future of AI, he did not provide a specific timeline or success rate for this achievement.
 
 > "The original question, ‘Can machines think’ I believe to be too meaningless to deserve discussion. Nevertheless I believe that at the end of the [20th] century the use of words and general educated
 > opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted [17]."
