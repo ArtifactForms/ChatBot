@@ -60,7 +60,7 @@ In 1950, Alan Turing introduced the **Imitation Game**, later known as the **Tur
 > "The original question, ‘Can machines think’ I believe to be too meaningless to deserve discussion. Nevertheless I believe that at the end of the [20th] century the use of words and general educated
 > opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted [17]."
 
-Despite significant advancements in AI, particularly in natural language processing and chatbot technology, the Turing Test remains a subject of debate and controversy. The test's parameters and methodology are often interpreted differently, making it challenging to establish a definitive standard for machine intelligence.
+Despite significant advancements in AI, particularly in natural language processing and chatbot technology, the Turing Test remains a subject of debate and controversy. The test's parameters and methodology are often interpreted differently, making it challenging to establish a definitive standard for machine intelligence [18].
 
 It's important to note that the Turing Test's primary purpose is to provoke thought and discussion about the nature of intelligence, rather than to provide a definitive measure. As AI continues to evolve, we may need to explore alternative methods for evaluating machine intelligence, such as focusing on specific tasks or the ability to learn and adapt.
 
@@ -255,6 +255,7 @@ Behavior trees are a powerful technique for structuring AI agents, including cha
 * [15] https://en.wikipedia.org/wiki/ELIZA 11-25-2024
 * [16] Alan Turing's original paper: "Computing Machinery and Intelligence" (Mind, 1950) 11-26-2024
 * [17] https://turingarchive.kings.cam.ac.uk/turing-quotes 11-26-2024
+* [19] https://www.youtube.com/watch?v=GyNaH27lX90
 * https://www.it-finanzmagazin.de/turing-test-fuer-chatbots-109700/ (German) 11-25-2024
 * https://www.youtube.com/watch?v=GyNaH27lX90 11-25-2024
 
