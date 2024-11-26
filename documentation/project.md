@@ -114,6 +114,8 @@ classDiagram
 
 Chatbots can be classified based on their complexity, capabilities, and underlying technology [7]. Here are some common classifications: 
 
+![](types-of-chatbots.png)
+
 * **Rule-Based Chatbots**
 * **AI-Powered Chatbots**
 
