@@ -98,7 +98,7 @@ A common way to categorize chatbots is based on their underlying technology an t
 A combination of these technologies gives rise to a third category: hybrid chatbots.
 
 * **Rule-Based Chatbots:** These chatbots follow predefined rules and scripts to respond to user queries. They are often used for simple tasks and customer service.
-* **AI-Powered Chatbots** These chatbots utilize artificial intelligence techniques, such as machine learning and natural language processing, to understand and respond to user input 1 in a more natural and human-like way.
+* **AI-Powered Chatbots** These chatbots utilize artificial intelligence techniques, such as machine learning and natural language processing, to understand and respond to user input in a more natural and human-like way.
 * **Hybrid Chatbots:** These chatbots combine elements of rule-based and AI-powered chatbots, using rules for simple queries and AI for more complex interactions.
 
 ## Core Concepts and Functionalities:
