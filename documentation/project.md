@@ -55,7 +55,14 @@ In this document, I will compile a glossary of terms relevant to this topic that
 
 **The Turing Test**
 
-In 1950, Alan Turing proposed the **Imitation Game**, a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. Turing predicted that by the year 2000, a computer would be able to fool a human interrogator 70% of the time. While significant progress has been made in the field of AI, particularly in chatbot development, this specific threshold has not yet been consistently achieved [13][14].
+In 1950, Alan Turing introduced the Imitation Game, later known as the Turing Test, as a method to assess a machine's ability to exhibit intelligent behavior indistinguishable from that of a human [13]. While Turing was optimistic about the future of AI, he did not provide a specific timeline or success rate for this achievement.
+
+> "The original question, ‘Can machines think’ I believe to be too meaningless to deserve discussion. Nevertheless I believe that at the end of the [20th] century the use of words and general educated
+> opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted [17]."
+
+Despite significant advancements in AI, particularly in natural language processing and chatbot technology, the Turing Test remains a subject of debate and controversy. The test's parameters and methodology are often interpreted differently, making it challenging to establish a definitive standard for machine intelligence.
+
+It's important to note that the Turing Test's primary purpose is to provoke thought and discussion about the nature of intelligence, rather than to provide a definitive measure. As AI continues to evolve, we may need to explore alternative methods for evaluating machine intelligence, such as focusing on specific tasks or the ability to learn and adapt.
 
 ![](ELIZA_conversation.png)
 
@@ -246,9 +253,12 @@ Behavior trees are a powerful technique for structuring AI agents, including cha
 * [13] https://www.codecademy.com/article/history-of-chatbots 11-25-2024
 * [14] https://intelligent-information.blog/en/will-ai-make-our-information-intelligent/ 11-25-2024
 * [15] https://en.wikipedia.org/wiki/ELIZA 11-25-2024
-  
+* [16] Alan Turing's original paper: "Computing Machinery and Intelligence" (Mind, 1950) 11-26-2024
+* [17] https://turingarchive.kings.cam.ac.uk/turing-quotes 11-26-2024
 * https://www.it-finanzmagazin.de/turing-test-fuer-chatbots-109700/ (German) 11-25-2024
 * https://www.youtube.com/watch?v=GyNaH27lX90 11-25-2024
+
+* https://academic.oup.com/mind/article/LIX/236/433/986238 11-26-2024
 
 **Images**
 * banner image created with deep ai https://deepai.org 10-25-2024
