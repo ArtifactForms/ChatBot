@@ -12,37 +12,7 @@ Conversational systems, also known as chatbots, are increasingly used in various
 
 When delving into the world of chatbots, we encounter a vast array of technical terms [3]. While it's not necessary to know every single term to grasp the fundamental concept of a chatbot [3], understanding key terms can significantly enhance your knowledge of conversational systems and artificial intelligence. As a non-technical user, a basic understanding is often sufficient. However, for my chatbot project, I aim to build a comprehensive vocabulary to achieve my learning goals.
 
-In this document, I will compile a glossary of terms relevant to this topic that I come across during my research.
-
-**Terms**
-* **Chatbot:** A computer program designed to simulate conversation with a human user.
-* **Conversational System:** A system that enables natural language interaction between humans and computers.
-* **Chatbot training:** The process of teaching a chatbot to understand and respond to user input.
-* **Training:** The process of feeding a machine learning model with data to improve its performance.
-* **Training Data:** A dataset used to train a machine learning model, typically consisting of input data and corresponding output labels.
-* **Utterance:** A specific statement or phrase uttered by a user.
-* **Intent:** The user's goal or purpose behind a specific utterance.
-* **Intent Recognition:** The process of identifying the user's goal or purpose from their input.
-* **Entity:** A specific piece of information within a user's utterance, such as a name, location, or date.
-* **Trigger:** A specific word or phrase that can initiate a chatbot's response.
-* **Action:** A specific task or operation that a chatbot can perform, such as providing information, making a recommendation, or completing a transaction.
-* **Condition:** A specific circumstance or requirement that must be met before a certain action can be taken.
-* **Intent Listener:** A component of a chatbot that listens for specific intents in user input.
-* **Natural Language (NL):**  Human language, such as English, Spanish, or Chinese.
-* **Natural Language Interface:** A user interface that allows users to interact with a computer system using natural language.
-* **Natural Language Processing (NLP):** A field of computer science and artificial intelligence concerned with the interaction between computers and human (natural) languages.
-* **Dialog Management:** The process of managing the flow of a conversation, including tracking the conversation's state, identifying user intents, and selecting appropriate responses.
-* **Machine Learning:** A field of artificial intelligence that gives computers the ability to learn without being explicitly programmed.
-* **Reinforcement Learning: (RL)** A type of machine learning where an agent learns to make decisions by interacting with an environment [6] and receiving rewards or penalties [5].
-* **Reinforcement Learning from Human Feedback (RLHF):**
-* **User Query:** A specific question or request made by a user to a chatbot.
-* **Artificial Intelligence (AI):** Artificial intelligence (AI) is a branch of computer science that aims to create intelligent agents, systems that can reason, learn, and act autonomously. AI systems are designed to mimic human cognitive functions, such as perception, reasoning, learning, and problem-solving [11].
-* **Model:** A mathematical representation of a real-world system or process. In the context of chatbots, models are used to process user input and generate responses.
-* **Human-in-the-loop (HITL)** Human in the Loop (HITL) is a collaborative approach in machine learning that integrates human expertise into the development and operation of AI systems. Humans actively participate in training, evaluating, and using these systems, providing valuable feedback and guidance [8][9].
-* **Exact Mathching (Direct Matching)** A simple approach to chatbot design where user input is **exactly matched** to a predefined response. This method relies on a database of pre-defined questions and answers. While efficient for straightforward queries, it lacks the flexibility to handle complex or nuanced user inputs.
-* **Turing Test (Imitation Game):**
-* **Context Window:**
-* **Voice Recognition:**
+In this document, I will compile a glossary of terms relevant to this topic that I come across during my research. [Terms](#Terms)
 
 ## The History of Chatbots
 
@@ -237,7 +207,39 @@ Behavior trees are a powerful technique for structuring AI agents, including cha
 * **Future Trends:** Integration of multimodal data (text, image, audio) and improved contextual understanding.
 * **Conclusion:**
 
-# References
+## Terms
+
+* **Chatbot:** A computer program designed to simulate conversation with a human user.
+* **Conversational System:** A system that enables natural language interaction between humans and computers.
+* **Chatbot training:** The process of teaching a chatbot to understand and respond to user input.
+* **Training:** The process of feeding a machine learning model with data to improve its performance.
+* **Training Data:** A dataset used to train a machine learning model, typically consisting of input data and corresponding output labels.
+* **Utterance:** A specific statement or phrase uttered by a user.
+* **Intent:** The user's goal or purpose behind a specific utterance.
+* **Intent Recognition:** The process of identifying the user's goal or purpose from their input.
+* **Entity:** A specific piece of information within a user's utterance, such as a name, location, or date.
+* **Trigger:** A specific word or phrase that can initiate a chatbot's response.
+* **Action:** A specific task or operation that a chatbot can perform, such as providing information, making a recommendation, or completing a transaction.
+* **Condition:** A specific circumstance or requirement that must be met before a certain action can be taken.
+* **Intent Listener:** A component of a chatbot that listens for specific intents in user input.
+* **Natural Language (NL):**  Human language, such as English, Spanish, or Chinese.
+* **Natural Language Interface:** A user interface that allows users to interact with a computer system using natural language.
+* **Natural Language Processing (NLP):** A field of computer science and artificial intelligence concerned with the interaction between computers and human (natural) languages.
+* **Dialog Management:** The process of managing the flow of a conversation, including tracking the conversation's state, identifying user intents, and selecting appropriate responses.
+* **Machine Learning:** A field of artificial intelligence that gives computers the ability to learn without being explicitly programmed.
+* **Reinforcement Learning: (RL)** A type of machine learning where an agent learns to make decisions by interacting with an environment [6] and receiving rewards or penalties [5].
+* **Reinforcement Learning from Human Feedback (RLHF):**
+* **User Query:** A specific question or request made by a user to a chatbot.
+* **Artificial Intelligence (AI):** Artificial intelligence (AI) is a branch of computer science that aims to create intelligent agents, systems that can reason, learn, and act autonomously. AI systems are designed to mimic human cognitive functions, such as perception, reasoning, learning, and problem-solving [11].
+* **Model:** A mathematical representation of a real-world system or process. In the context of chatbots, models are used to process user input and generate responses.
+* **Human-in-the-loop (HITL)** Human in the Loop (HITL) is a collaborative approach in machine learning that integrates human expertise into the development and operation of AI systems. Humans actively participate in training, evaluating, and using these systems, providing valuable feedback and guidance [8][9].
+* **Exact Mathching (Direct Matching)** A simple approach to chatbot design where user input is **exactly matched** to a predefined response. This method relies on a database of pre-defined questions and answers. While efficient for straightforward queries, it lacks the flexibility to handle complex or nuanced user inputs.
+* **Turing Test (Imitation Game):**
+* **Context Window:**
+* **Voice Recognition:**
+
+## References
+
 * [1] https://link.springer.com/chapter/10.1007/978-3-030-49418-6_17 11-25-2024
 * [2] https://www.moin.ai/chatbot-lexikon/chatbot-trainieren-trainingsdaten-ki (German) 11-25-2024
 * [3] https://www.tidio.com/blog/training-a-chatbot/ 11-25-2024
