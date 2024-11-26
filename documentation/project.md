@@ -255,7 +255,7 @@ Behavior trees are a powerful technique for structuring AI agents, including cha
 * [15] https://en.wikipedia.org/wiki/ELIZA 11-25-2024
 * [16] Alan Turing's original paper: "Computing Machinery and Intelligence" (Mind, 1950) 11-26-2024
 * [17] https://turingarchive.kings.cam.ac.uk/turing-quotes 11-26-2024
-* [19] https://www.youtube.com/watch?v=GyNaH27lX90
+* [19] https://www.youtube.com/watch?v=GyNaH27lX90 AI passed the Turing Test -- And No One Noticed (Sabine Hossenfelder) 11-26-2024
 * https://www.it-finanzmagazin.de/turing-test-fuer-chatbots-109700/ (German) 11-25-2024
 * https://www.youtube.com/watch?v=GyNaH27lX90 11-25-2024
 
