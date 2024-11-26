@@ -94,6 +94,8 @@ Chatbots can be classified based on their complexity, capabilities, and underlyi
 
 ![](types-of-chatbots.png)
 
+A common way to categorize chatbots is based on their underlying technology. They are often divided into two main groups: rule-based chatbots and AI-powered chatbots. Rule-based chatbots follow strict rules and predefined response patterns, while AI-powered chatbots utilize artificial intelligence to engage in more complex conversations and learn from them.
+
 * **Rule-Based Chatbots**
 * **AI-Powered Chatbots**
 
