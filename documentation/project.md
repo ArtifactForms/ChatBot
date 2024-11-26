@@ -247,5 +247,6 @@ Behavior trees are a powerful technique for structuring AI agents, including cha
 * https://www.it-finanzmagazin.de/turing-test-fuer-chatbots-109700/ (German) 11-25-2024
 * https://www.youtube.com/watch?v=GyNaH27lX90 11-25-2024
 
-banner image created with deep ai https://deepai.org 10-25-2024
-eliza image https://upload.wikimedia.org/wikipedia/commons/7/79/ELIZA_conversation.png 10-25-2024
+**Images**
+* banner image created with deep ai https://deepai.org 10-25-2024
+* eliza image https://upload.wikimedia.org/wikipedia/commons/7/79/ELIZA_conversation.png 10-25-2024
